@@ -26,3 +26,9 @@ module.exports = {
   generateToken,
   validateToken,
 };
+
+
+
+// git remote add origin https://github.com/Prasanth-S-Official/virtusa.git
+// git branch -M main
+// git push -u origin main
